@@ -24,14 +24,75 @@ I will consider each of the requirements in determining your grade. If you canno
 Approximate Grading
 -------------------
 
-| Activities | Percentages |
-| --- | --- |
-| Class participation | 25% |
-| Two reports on an outside text and a critical essay | 20% |
-| Class leadership, with handout (list of discussion questions) | 10% |
-| Four response papers | 10% |
-| Five-page essay | 10% |
-| Longer essay (15 pages) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two reports on an outside text and a critical essay
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class leadership, with handout (list of discussion questions)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four response papers
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five-page essay
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Longer essay (15 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I reserve the right to alter the weighting somewhat in exceptional circumstances; usually this works to your advantage. If written work is incomplete or attendance is infrequent, you will not pass the course.
 
